@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1600620952 source:c:\users\elnour\pictures\project\hospitall\main.cpp
+	<iostream>
+	"DoctorsReservation.h"
+	"Employee1.h"
+	"rooom.h"
+	"patientInfo.h"
+	"Roomm.h"
+
+1598949036 source:c:\users\elnour\pictures\project\hospitall\employee1.cpp
+
+1598949181 source:c:\users\elnour\pictures\project\hospitall\patientinfo.cpp
+
+1598949250 source:c:\users\elnour\pictures\project\hospitall\doctorsreservation.cpp
+
+1600532546 c:\users\elnour\pictures\project\hospitall\doctorsreservation.h
+	<patientInfo.h>
+	<windows.h>
+	<iostream>
+
+1600623831 c:\users\elnour\pictures\project\hospitall\patientinfo.h
+	<string>
+	<iostream>
+	<fstream>
+	"helper.h"
+
+1600176711 c:\users\elnour\pictures\project\hospitall\helper.h
+	<iostream>
+	<ctime>
+
+1600620294 c:\users\elnour\pictures\project\hospitall\employee1.h
+	<string>
+	<iostream>
+	<fstream>
+	"helper.h"
+	"string.h"
+
+1600087819 source:c:\users\elnour\pictures\project\hospitall\roomreservation.cpp
+
+1600088846 source:c:\users\elnour\pictures\project\hospitall\room.cpp
+
+1600175777 source:c:\users\elnour\pictures\project\hospitall\rooom.cpp
+
+1600616444 c:\users\elnour\pictures\project\hospitall\rooom.h
+	<iostream>
+	"helper.h"
+	<fstream>
+	<string>
+
+1600620535 source:c:\users\elnour\pictures\project\hospitall\roomm.cpp
+
+1600624115 c:\users\elnour\pictures\project\hospitall\roomm.h
+	<string>
+	<iostream>
+	<fstream>
+	"helper.h"
+
